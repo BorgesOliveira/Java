@@ -1,3 +1,4 @@
+package Classes;
 public class class24{
     
     public static void main (String[] args){
